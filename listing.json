@@ -21,7 +21,8 @@
         ],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day4/day4.py"
+        "main_file": "day4.py",
+        "dir_path": "years/2018/day4"
       },
       "3": {
         "tests": [
@@ -37,7 +38,8 @@
         "inputs": [],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day3/day3.py"
+        "main_file": "day3.py",
+        "dir_path": "years/2018/day3"
       },
       "2": {
         "tests": [
@@ -59,7 +61,8 @@
         ],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day2/day2.py"
+        "main_file": "day2.py",
+        "dir_path": "years/2018/day2"
       },
       "5": {
         "tests": [
@@ -80,7 +83,8 @@
         ],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day5/day5.py"
+        "main_file": "day5.py",
+        "dir_path": "years/2018/day5"
       },
       "7": {
         "tests": [
@@ -101,7 +105,8 @@
         ],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day7/day7.py"
+        "main_file": "day7.py",
+        "dir_path": "years/2018/day7"
       },
       "6": {
         "tests": [
@@ -125,13 +130,15 @@
         ],
         "part1": true,
         "part2": true,
-        "main_file": "years/2018/day6/day6.py"
+        "main_file": "day6.py",
+        "dir_path": "years/2018/day6"
       },
       "1": {
         "tests": [],
         "example_inputs": [],
         "inputs": [],
-        "main_file": "years/2018/day1/day1.py"
+        "main_file": "day1.py",
+        "dir_path": "years/2018/day1"
       }
     }
   }

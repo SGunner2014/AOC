@@ -59,7 +59,12 @@ for year in years:
                 if "part2" in day_module_dir:
                     listing["part2"] = True
 
-                listing["main_file"] = day_file_path[2:]
+                if day_file_path.endswith("main.py"):
+                    listing["main_file"] = "main.py"
+                else:
+                    listing["main_file"] = f"day{day_number}.py"
+
+                listing["dir_path"] = day_path[2:]
 
                 if "tests" in day_module_dir:
                     tests = day_module.tests
