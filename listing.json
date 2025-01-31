@@ -1,0 +1,138 @@
+[
+  {
+    "year": "2018",
+    "days": {
+      "4": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              240,
+              null
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example.txt"
+        ],
+        "inputs": [
+          "input_henry.txt",
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day4/day4.py"
+      },
+      "3": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              4,
+              3
+            ]
+          }
+        ],
+        "example_inputs": [],
+        "inputs": [],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day3/day3.py"
+      },
+      "2": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              12,
+              "fgij"
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example2.txt",
+          "example.txt"
+        ],
+        "inputs": [
+          "input_henry.txt",
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day2/day2.py"
+      },
+      "5": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              10,
+              4
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example.txt"
+        ],
+        "inputs": [
+          "input_henry.txt",
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day5/day5.py"
+      },
+      "7": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              "CABDFE",
+              "CABFDE"
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example.txt"
+        ],
+        "inputs": [
+          "input_henry.txt",
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day7/day7.py"
+      },
+      "6": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              17,
+              90
+            ],
+            "args": [
+              32
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example.txt"
+        ],
+        "inputs": [
+          "input_henry.txt",
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "years/2018/day6/day6.py"
+      },
+      "1": {
+        "tests": [],
+        "example_inputs": [],
+        "inputs": [],
+        "main_file": "years/2018/day1/day1.py"
+      }
+    }
+  }
+]
