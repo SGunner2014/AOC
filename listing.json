@@ -1,5 +1,31 @@
 [
   {
+    "year": "2024",
+    "days": {
+      "6": {
+        "tests": [
+          {
+            "filename": "example.txt",
+            "expected": [
+              41,
+              6
+            ]
+          }
+        ],
+        "example_inputs": [
+          "example.txt"
+        ],
+        "inputs": [
+          "input_sam.txt"
+        ],
+        "part1": true,
+        "part2": true,
+        "main_file": "day6.py",
+        "dir_path": "years/2024/day6"
+      }
+    }
+  },
+  {
     "year": "2018",
     "days": {
       "4": {
